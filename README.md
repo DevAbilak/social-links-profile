@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/DevAbilak/social-links-profile/tree/main](https://github.com/DevAbilak/social-links-profile/tree/main)
+- Live Site URL: [https://devabilak.github.io/social-links-profile/](https://devabilak.github.io/social-links-profile/)
 
 ## My process
 
